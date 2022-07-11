@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hittpatel" alt="hittpatel" /></a> </p>
 <br>
-- 🌱 I’m currently learning **Springboot,DSA**
+
+- 🌱 I’m currently learning Springboot,DSA
 
 - 👨‍💻 All of my projects are available at [https://hittpatel.github.io/Portfolio/](https://hittpatel.github.io/Portfolio/)
 
