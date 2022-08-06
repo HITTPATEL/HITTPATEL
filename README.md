@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Springboot,DSA**
 
-- 👨‍💻 All of my projects are available at [https://hittpatel.github.io/Portfolio/](https://hittpatel.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://hittpatel.github.io/HitendraVermaPortfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@hiten200verma](https://medium.com/@hiten200verma)
 
