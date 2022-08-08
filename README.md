@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hittpatel.github.io/HitendraVermaPortfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@hiten200verma](https://medium.com/@hiten200verma)
+- 📝 I write articles on [https://medium.com/@hiten200verma](https://medium.com/@hiten200verma)
 
 - 💬 Ask me about **Java,Springboot,DSA**
 
