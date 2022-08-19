@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hitendra Verma</h1>
+<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+h1 align="center">Hi 👋, I'm Hitendra Verma</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hittpatel&label=Profile%20views&color=0e75b6&style=flat" alt="hittpatel" /> </p>
