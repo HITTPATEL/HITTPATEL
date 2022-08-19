@@ -1,4 +1,4 @@
-/*<img  src="https://www.aaditritechnology.com/images/redesign.gif">*/
+
 <h1 align="center">Hi 👋, I'm Hitendra Verma</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <br>
