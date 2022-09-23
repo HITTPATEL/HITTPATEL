@@ -25,7 +25,7 @@
 <a href="https://medium.com/@hiten200verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hiten200verma" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/hitendra_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hitendra_verma" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hiten20lt18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hiten20lt18" height="40" width="50" /></a>
-    <a href="https://leetcode.com/hittu_patel/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTMhIZG3sGyf4dbXaHi62yh2rEPf8wxOxiQ&usqp=CAU" alt="https://leetcode.com/hittu_patel/" height="40" width="50" /></a>
+    <a href="https://leetcode.com/hittu_patel/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTMhIZG3sGyf4dbXaHi62yh2rEPf8wxOxiQ&usqp=CAU" alt="https://leetcode.com/hittu_patel/" height="60" width="50" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
