@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hiten200verma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eyYAOjTT8VruJZteIhX-VpMPwKXyQ5j3/view?usp=sharing](https://drive.google.com/file/d/1eyYAOjTT8VruJZteIhX-VpMPwKXyQ5j3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nioC7cChZXsH6QF3p9KOT1s5zwoafTge/view](https://drive.google.com/file/d/1nioC7cChZXsH6QF3p9KOT1s5zwoafTge/view)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
